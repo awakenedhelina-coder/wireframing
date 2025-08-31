@@ -35,5 +35,11 @@ By stripping away visual design elements, wireframes allow designers to concentr
 * Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.      
 * High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
 # Popular Wireframing Tools
-* Figma 
+* Figma is used for wireframing. It is easy to learn, ideal for collaboration in real time and offers prototyping features.
+# Wireframing in practice
+  Early gmail wireframes grouped emails into conversations and users were confused if they were replying to the particular email or the thread. Designers then resolved the design by    
+  delineating between reply and reply all options clearly.     
+
+
+
   
