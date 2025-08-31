@@ -37,9 +37,8 @@ By stripping away visual design elements, wireframes allow designers to concentr
 # Popular Wireframing Tools
 * Figma is used for wireframing. It is easy to learn, ideal for collaboration in real time and offers prototyping features.
 # Wireframing in practice
-  Early gmail wireframes grouped emails into conversations and users were confused if they were replying to the particular email or the thread. Designers then resolved the design by    
-  delineating between reply and reply all options clearly.     
-
+  Early gmail wireframes grouped emails into conversations and users were confused if they were replying to the particular email or the thread.                  
+  Designers then resolved the design by delineating between reply and reply all options clearly.                        
 
 
   
